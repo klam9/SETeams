@@ -6,4 +6,4 @@
 
 ## Students
 
-* 
+* [Katie Lam](https://github.com/klam9) 
